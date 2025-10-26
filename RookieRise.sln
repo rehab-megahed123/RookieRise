@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RookieRise.API", "RookieRise.API\RookieRise.API.csproj", "{B2083915-A782-48B0-B903-372F1F059C99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RookieRise.Data", "RookieRise.Services\RookieRise.Data.csproj", "{4B153AA5-3EE2-46B5-9084-164C9CD8D7A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RookieRise.Data", "RookieRise.Data\RookieRise.Data.csproj", "{4B153AA5-3EE2-46B5-9084-164C9CD8D7A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RookieRise.Presistance", "RookieRise.Presistance\RookieRise.Presistance.csproj", "{2139DCCA-B407-4987-A1BC-459224E62B4F}"
 EndProject

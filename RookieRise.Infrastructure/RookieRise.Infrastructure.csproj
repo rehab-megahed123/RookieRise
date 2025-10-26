@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RookieRise.Application\RookieRise.Application.csproj" />
+    <ProjectReference Include="..\RookieRise.Data\RookieRise.Data.csproj" />
     <ProjectReference Include="..\RookieRise.Presistance\RookieRise.Presistance.csproj" />
   </ItemGroup>
 
